@@ -40,3 +40,7 @@ coverage/
 
 # SASS cache
 .sass-cache/
+
+
+# Ignore migration setup guide
+migrate-mongo-setup-guide.md
